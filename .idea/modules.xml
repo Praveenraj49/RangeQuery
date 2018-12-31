@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RangeQuery.iml" filepath="$PROJECT_DIR$/.idea/modules/RangeQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RangeQuery_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RangeQuery_main.iml" group="RangeQuery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RangeQuery_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RangeQuery_test.iml" group="RangeQuery" />
+    </modules>
+  </component>
+</project>
